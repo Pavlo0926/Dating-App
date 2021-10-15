@@ -1,0 +1,16 @@
+{
+  "login": {
+    "submitButton": "Login",
+    "username": "Username",
+    "password": "Password"
+  },
+  "authSelection": {
+    "logoText": "Make new friends",
+    "login": "Login",
+    "register": "Register",
+    "termsPolicy": "With your registration you agree to our",
+    "terms": "Terms of Service",
+    "policy": "Privacy Policy.",
+    "and": "and"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Pluzo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^2.2.2",
+    "@react-native-community/async-storage": "^1.11.0",
+    "@react-native-community/blur": "^3.6.0",
+    "@react-native-community/clipboard": "^1.2.3",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@twotalltotems/react-native-otp-input": "^1.3.11",
+    "add": "^2.0.6",
+    "axios": "^0.19.2",
+    "eventing-bus": "^1.3.3",
+    "google-libphonenumber": "^3.2.13",
+    "i18next": "^19.5.1",
+    "moment": "^2.27.0",
+    "react": "16.13.1",
+    "react-i18next": "^11.7.0",
+    "react-native": "0.63.2",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-agora": "^3.0.1-rc.2",
+    "react-native-animatable": "^1.3.3",
+    "react-native-calendars": "^1.300.0",
+    "react-native-countdown-text": "^1.0.5",
+    "react-native-deck-swiper": "^1.6.7",
+    "react-native-fast-image": "^8.3.2",
+    "react-native-geolocation-service": "^5.0.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-gifted-chat": "^0.16.1",
+    "react-native-haptic-feedback": "^1.10.0",
+    "react-native-iap": "^4.6.3",
+    "react-native-image-crop-picker": "^0.32.2",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-keyboard-manager": "^4.0.13-16",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-masonry-scrollview": "^0.0.2",
+    "react-native-modal": "^11.5.6",
+    "react-native-modalbox": "^2.0.0",
+    "react-native-onesignal": "^3.9.1",
+    "react-native-otp-verify": "^1.0.3",
+    "react-native-permissions": "^3.0.0",
+    "react-native-reanimated": "^1.9.0",
+    "react-native-safe-area-context": "^3.0.2",
+    "react-native-scalesheet": "muhammadarsal/react-native-scalesheet",
+    "react-native-screens": "^2.8.0",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-swipe-list-view": "^3.2.5",
+    "react-native-swiper": "^1.6.0-rc.3",
+    "react-native-switch": "^2.0.0",
+    "react-native-view-overflow": "^0.0.5",
+    "react-native-webview": "^10.9.3",
+    "react-navigation": "^4.3.9",
+    "react-navigation-stack": "^2.7.0",
+    "react-navigation-tabs": "^2.8.13",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-form": "^8.3.6",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.1.3",
+    "reduxsauce": "^1.1.3",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^1.1.0",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-react-native": "^3.8.1",
+    "husky": "^4.2.5",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "prettier": "2.0.5",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint"
+    }
+  },
+  "rnpm": {
+    "assets": [
+      "assets/fonts/MontserratAlternates"
+    ]
+  }
+}

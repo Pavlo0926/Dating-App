@@ -1,0 +1,24 @@
+[
+  { "id": "1", "name": "Account", "iconUri": "icAccount", "type": 0 },
+  { "id": "2", "name": "Safety and Privacy", "iconUri": "icSafety", "type": 0 },
+  { "id": "3", "name": "Push Notifications", "iconUri": "icPush", "type": 0 },
+  { "id": "4", "type": 2 },
+  { "id": "5", "name": "Swipe Settings", "iconUri": "icSwipe", "type": 0 },
+  { "id": "6", "type": 2 },
+  { "id": "7", "name": "Help", "iconUri": "icHelp", "type": 0 },
+  {
+    "id": "8",
+    "name": "Community Guidelines",
+    "iconUri": "icCommunity",
+    "type": 0
+  },
+  { "id": "9", "name": "Legal", "iconUri": "icLegal", "type": 0 },
+  { "id": "10", "type": 2 },
+  { "id": "11", "name": "Restore Purchases", "iconUri": "icRestore", "type": 0 },
+  { "id": "12", "type": 2 },
+  { "id": "13", "type": 3 },
+  { "id": "14", "type": 2 },
+  { "id": "15", "name": "Logout", "iconUri": "icLogout", "type": 1 },
+  { "id": "16", "name": "Delete Account", "iconUri": "icTrash", "type": 1 },
+  { "id": "17", "type": 2 }
+]

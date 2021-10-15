@@ -1,0 +1,11 @@
+{
+  "1": { "id": 1, "icon": "tagPicture", "color": "#FF0000", "selected": false },
+  "2": { "id": 2, "icon": "tagMusic", "color": "#FFA500", "selected": false },
+  "3": { "id": 3, "icon": "tagBox", "color": "#FFFF00", "selected": false },
+  "4": { "id": 4, "icon": "tagLove", "color": "#00FF00", "selected": false },
+  "5": { "id": 5, "icon": "tagSport", "color": "#0000FF", "selected": false },
+  "6": { "id": 6, "icon": "tagSea", "color": "#800080", "selected": false },
+  "7": { "id": 7, "icon": "tagTravel", "color": "#A52A2A", "selected": false },
+  "8": { "id": 8, "icon": "tagTravel", "color": "#000000", "selected": false },
+  "9": { "id": 9, "icon": "tagTravel", "color": "#FFFFFF", "selected": false }
+}
