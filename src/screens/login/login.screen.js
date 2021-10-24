@@ -15,7 +15,7 @@ const LoginScreen: () => React$Node = props => {
   };
 
   const onLogin = values => {
-    props.login(values);
+    props.login(values); 
   };
 
   return (

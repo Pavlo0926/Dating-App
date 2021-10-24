@@ -16,7 +16,7 @@ const { width } = Dimensions.get("window");
 
 class OrderImages extends React.Component {
   constructor(props) {
-    super(props);
+    super(props); 
     this.state = {
       uploading: false,
       scrollEnabled: true,
