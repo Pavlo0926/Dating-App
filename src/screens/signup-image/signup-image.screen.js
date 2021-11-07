@@ -10,7 +10,7 @@ import {
   NotificationModal
 } from "@components";
 import styles from "./signup-image.style.js";
-import ImagePicker from "react-native-image-crop-picker";
+import ImagePicker from "react-native-image-crop-picker";   
 import ActionSheet from "react-native-actionsheet";
 import Images from "@assets/Images";
 
