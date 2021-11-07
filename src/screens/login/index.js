@@ -17,4 +17,4 @@ const mapDispatchToProps = {
 export default connect(
   mapStateToProps,
   mapDispatchToProps,
-)(withTranslation()(LoginScreen));
+)(withTranslation()(LoginScreen));   
