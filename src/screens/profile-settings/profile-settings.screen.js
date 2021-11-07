@@ -1,4 +1,4 @@
-import React from "react";
+﻿import React from "react";
 import { View, ScrollView, ActivityIndicator, TextInput, Animated, Keyboard, NativeModules, Platform } from "react-native";
 import KeyboardManager from "react-native-keyboard-manager";
 import * as Animatable from "react-native-animatable";
@@ -11,7 +11,7 @@ import { SCREENS } from "@constants";
 
 import {
   Screen,
-  SolidButton,
+  SolidButton,    
   Text,
   Image,
   Touchable,
