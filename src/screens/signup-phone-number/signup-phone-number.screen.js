@@ -8,7 +8,7 @@ import {
   Text,
   TextInput,
   CountryCodePicker,
-} from "@components";
+} from "@components";   
 import { widthPercentageToDP as wp, Validator } from "@helpers";
 import styles, { height } from "./signup-phone-number.style.js";
 
