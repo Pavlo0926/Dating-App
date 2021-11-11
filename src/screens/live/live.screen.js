@@ -6,7 +6,7 @@ import {
   Image,
   Touchable,
   BoxShadow,
-} from "@components";
+} from "@components";      
 import RNMasonryScroll from "react-native-masonry-scrollview";
 import * as Animatable from "react-native-animatable";
 import LinearGradient from "react-native-linear-gradient";
